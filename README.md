@@ -13,6 +13,12 @@ I’m an IT student at Hanze University of Applied Sciences majoring in Software
 
 <br>
 
+##  Certifications 
+| Issuing Organization | **Credential** |
+| ----------------- | --------------- |
+| <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFMUZFU4aihpw/company-logo_100_100/0?e=1603929600&v=beta&t=PQqBtvYNFoOmwxZpXnW5fo_Y5pggpKp9jSg7Gri5jjQ" alt="Coursera logo" width="50"> | [Certified Laravel Developer](https://www.royvoetman.nl/laravel-certificate.pdf)
+| <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQG0lPVZPZMi3A/company-logo_200_200/0?e=1603929600&v=beta&t=pTaesPISCOhnrZ0l6u4GgoJTLCU2iO1x0aWzttP4MUA" alt="Certified Secure logo" width="50"> | [Web Security Specialist](https://www.royvoetman.nl/web-security-specialist.pdf)
+
 ## Find me around the web 🌎:
 - <a href="https://www.royvoetman.nl/">royvoetman.nl</a> 🖥
 - <a href="https://www.linkedin.com/in/roy-voetman/">LinkedIn</a> 💼
