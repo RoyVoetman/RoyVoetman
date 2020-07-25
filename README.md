@@ -3,7 +3,6 @@
 I’m an IT student at Hanze University of Applied Sciences majoring in Software Engineering. I currently work at Noardcode, a company that deals with the development of online applications to automate business processes, where I mainly focus on developing, expanding and optimizing a wide array of (laravel) back-end projects.
 
 <br>
-<br>
 
 ## Check out a few of my projects!
 |  | **Projects** |
