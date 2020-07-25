@@ -5,7 +5,7 @@ I’m an IT student at Hanze University of Applied Sciences majoring in Software
 <br>
 
 ## Check out a few of my projects!
-|  | **Projects** |
+|  |  |
 | ----------------- | --------------- |
 | **University Assignments** | [![Object-Oriented-Programming](https://img.shields.io/static/v1?label=&message=Object-Oriented-Programming&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/Object-Oriented-Programming) [![Algorithms-and-Data-Structures](https://img.shields.io/static/v1?label=&message=Algorithms-and-Data-Structures&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/Algorithms-and-Data-Structures) [![Embedded-systems](https://img.shields.io/static/v1?label=&message=Embedded-systems&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/Embedded-systems) [![Academic-Writing](https://img.shields.io/static/v1?label=&message=Academic-Writing&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/Academic-Writing) |
 | **IoT** | [![iot-base](https://img.shields.io/static/v1?label=&message=iot-base&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/iot-base) [![iot-dashboard](https://img.shields.io/static/v1?label=&message=iot-dashboard&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/iot-dashboard) [![iot-clients](https://img.shields.io/static/v1?label=&message=iot-clients&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/iot-clients) |
