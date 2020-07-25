@@ -3,6 +3,7 @@
 I’m an IT student at Hanze University of Applied Sciences majoring in Software Engineering. I currently work at Noardcode, a company that deals with the development of online applications to automate business processes, where I mainly focus on developing, expanding and optimizing a wide array of (laravel) back-end projects.
 
 <br>
+<br>
 
 ## Check out a few of my projects!
 |  | **Projects** |
@@ -11,7 +12,6 @@ I’m an IT student at Hanze University of Applied Sciences majoring in Software
 | **IoT** | [![iot-base](https://img.shields.io/static/v1?label=&message=iot-base&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/iot-base) [![iot-dashboard](https://img.shields.io/static/v1?label=&message=iot-dashboard&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/iot-dashboard) [![iot-clients](https://img.shields.io/static/v1?label=&message=iot-clients&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/iot-clients) |
 | **Packages** | [![flysystem-gitlab-storage](https://img.shields.io/static/v1?label=&message=flysystem-gitlab-storage&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/flysystem-gitlab-storage) [![laravel-flash-alerts](https://img.shields.io/static/v1?label=&message=laravel-flash-alerts&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/laravel-flash-alerts) [![laravel-prefixer](https://img.shields.io/static/v1?label=&message=laravel-prefixer&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/laravel-prefixer) [![laravel-gitlab-storage](https://img.shields.io/static/v1?label=&message=laravel-gitlab-storage&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/RoyVoetman/laravel-gitlab-storage) |
 
-<br>
 <br>
 
 ## Find me around the web 🌎:
