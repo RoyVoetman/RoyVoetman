@@ -1,4 +1,4 @@
-# Hello! I'm Roy Voetman 😄👋
+# Hello! I'm Roy Voetman <img src="https://www.royvoetman.nl/images/apple-04.svg" alt="Logo with a cartoon version of me on a playing card" width="100">
 
 <!--
 **RoyVoetman/RoyVoetman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
