@@ -1,6 +1,6 @@
 # Hello! I'm Roy Voetman <img align="right" src="https://www.royvoetman.nl/images/apple-04.svg" alt="Logo with a cartoon version of me on a playing card" width="200">
 
-I’m an IT student at Hanze University of Applied Sciences majoring in **Software Engineering** with a great passion for **Effective Learning** and **Artificial intelligence**</p>
+I’m an IT student at Hanze University of Applied Sciences majoring in **Software Engineering** with a great passion for **Effective Learning** and **Artificial intelligence**.</p>
 
 <br>
 
